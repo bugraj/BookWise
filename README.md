@@ -75,4 +75,3 @@ A hybrid recommendation system was built using the combination of both content-b
 * seaborn, matplotlib - Visualization libraries
 * numpy, scipy- number python library
 * pandas - data handling library
-This project made by- Raj Kumar Soni
